@@ -1,7 +1,7 @@
 ## Hi there 👋
 - Results-driven Senior Software Engineer with over 7 years of experience in developing and managing full-stack applications, excellent problem-solving skills, and a strong collaborator.
 
-## Proficient 
+## Proficiency 
 - Languages: Python, JavaScript, SQL, Go
 - Back-end: Flask, Node.js
 - Front-end: Flutter, React, Angular
