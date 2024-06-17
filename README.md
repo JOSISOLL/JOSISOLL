@@ -1,5 +1,13 @@
 ## Hi there 👋
+- Results-driven Senior Software Engineer with over 7 years of experience in developing and managing full-stack applications, excellent problem-solving skills, and a strong collaborator.
 
+## Proficient 
+- Languages: Python, JavaScript, SQL, Go
+- Back-end: Flask, Node.js
+- Front-end: Flutter, React, Angular
+- DB: Mongo, PostgreSQL, MySQL
+- Cloud: GCP, AWS
+  
 ### Skills
 <p align="left">
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
