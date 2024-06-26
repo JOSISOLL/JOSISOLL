@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Results-driven Senior Software Engineer with over 7 years of experience in developing and managing full-stack applications, excellent problem-solving skills, and a strong collaborator.
+- Results-driven Senior Software Engineer with over 9 years of experience in developing and managing full-stack applications, excellent problem-solving skills, and a strong collaborator.
 
 ## Proficiency 
 - Languages: Python, JavaScript, SQL, Go
